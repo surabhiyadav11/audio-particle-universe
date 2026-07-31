@@ -1,28 +1,38 @@
 # 🎵 Audio Particle Universe
 
-> An interactive audio visualizer creating dynamic particle animations driven by audio input.
+> **A simple, dynamic audio visualizer where sound brings particles to life.**
 
 ---
 
-✨ Features
+## ✨ Key Features
 
-* 🎶 **Real-Time Audio Visualization:** Particles respond dynamically to audio frequencies and beats.
-* ⚡ **Ultra-Fast Performance:** Built with React and Vite for smooth rendering and instant HMR.
-* 🎨 **Interactive UI:** Smooth transitions and customizable particle behavior.
+* 🎶 **Sound-Reactive Particles:** Particles move and react instantly to audio frequencies and beats.
+* ⚡ **Fast & Smooth:** Built with **React** & **Vite** for zero-lag, 60 FPS animations.
+* 🎨 **Canvas Graphics:** Powered by **HTML5 Canvas** for smooth particle physics.
+* 🎛️ **Audio Engine:** Uses the native **Web Audio API** for real-time sound processing.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Framework:** React
-* **Build Tool:** Vite
-* **Styling:** CSS3 / HTML5 Canvas
-* **Audio Processing:** Web Audio API
+* ⚛️ **Framework:** React
+* ⚡ **Build Tool:** Vite
+* 🎨 **Graphics:** HTML5 Canvas / CSS3
+* 🔊 **Audio Processing:** Web Audio API
 
 ---
 
 ## 🚀 Quick Start
 
-### 1. Clone the repository
+Get it running on your local machine in three simple steps:
+
 ```bash
+# 1. Clone the repository
 git clone [https://github.com/surabhiyadav11/audio-particle-universe.git](https://github.com/surabhiyadav11/audio-particle-universe.git)
+
+# 2. Go into the project directory & install dependencies
+cd audio-particle-universe
+npm install
+
+# 3. Start the dev server
+npm run dev
