@@ -1,16 +1,28 @@
-# React + Vite
+# 🎵 Audio Particle Universe
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> An interactive audio visualizer creating dynamic particle animations driven by audio input.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+✨ Features
 
-## React Compiler
+* 🎶 **Real-Time Audio Visualization:** Particles respond dynamically to audio frequencies and beats.
+* ⚡ **Ultra-Fast Performance:** Built with React and Vite for smooth rendering and instant HMR.
+* 🎨 **Interactive UI:** Smooth transitions and customizable particle behavior.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+* **Framework:** React
+* **Build Tool:** Vite
+* **Styling:** CSS3 / HTML5 Canvas
+* **Audio Processing:** Web Audio API
+
+---
+
+## 🚀 Quick Start
+
+### 1. Clone the repository
+```bash
+git clone [https://github.com/surabhiyadav11/audio-particle-universe.git](https://github.com/surabhiyadav11/audio-particle-universe.git)
