@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 Get it running on your local machine in three simple steps:
 
