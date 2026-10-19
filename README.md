@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 Follow these steps to run the project locally:
 
