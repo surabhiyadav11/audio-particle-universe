@@ -1,4 +1,4 @@
-# 🎵 Audio Particle Universe
+#  Audio Particle Universe
 
 > **A simple and dynamic audio visualizer where sound brings particles to life.**
 
